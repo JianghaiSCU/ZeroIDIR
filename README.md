@@ -4,11 +4,8 @@
 <h4 align="center">2.University of Electronic Science and Technology of China,</center></center>
 <h4 align="center">3.College of Electronics and Information Engineering, Sichuan University</center></center>
 
-## Dataset synthesis pipeline
-![](./Figure/syn_pipe.png)
-
-## Framework pipeline
-![](./Figure/framework.png)
+## Overall pipeline
+![](./Figure/pipeline.png)
 
 ## Dependencies
 ```
@@ -40,8 +37,7 @@ python inference.py
 ```
 
 ## Visual comparison
-![](./Figure/visual_canon.png)
-![](./Figure/visual_sony.png)
+![](./Figure/visual_compare.png)
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
 ```
