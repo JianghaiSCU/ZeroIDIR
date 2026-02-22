@@ -1,4 +1,4 @@
-# [CVPR 2026] ZeroIDIR: Zero-Reference Illumination Degradation Image Restoration with Perturbed Consistency Diffusion Models [[Paper]]()
+# [[CVPR 2026]]() ZeroIDIR: Zero-Reference Illumination Degradation Image Restoration with Perturbed Consistency Diffusion Models
 <h4 align="center">Hai Jiang<sup>1</sup>, Zhen Liu<sup>2</sup>, Yinjie Lei<sup>3</sup>, Songchen Han<sup>1</sup>, Bing Zeng<sup>2</sup>, Shuaicheng Liu<sup>2</sup></center>
 <h4 align="center">1.School of Aeronautics and Astronautics, Sichuan University</center></center>
 <h4 align="center">2.University of Electronic Science and Technology of China,</center></center>
