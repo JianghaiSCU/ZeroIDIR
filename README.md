@@ -27,7 +27,7 @@ You can download our pre-trained model from [[OneDrive]]() and [[Baidu Yun (extr
 ## How to train?
 You need to modify ```dataset/dataloader.py``` slightly for your environment, and then
 ```
-accelerate launch train.py  
+python train.py  
 ```
 
 ## How to test?
